@@ -14,3 +14,4 @@ E:\Năm 3\NT101\Labs\Lab1_Playfair\Lab1_Playfair\obj\Debug\net8.0-windows\refint
 E:\Năm 3\NT101\Labs\Lab1_Playfair\Lab1_Playfair\obj\Debug\net8.0-windows\Lab1_Playfair.pdb
 E:\Năm 3\NT101\Labs\Lab1_Playfair\Lab1_Playfair\obj\Debug\net8.0-windows\Lab1_Playfair.genruntimeconfig.cache
 E:\Năm 3\NT101\Labs\Lab1_Playfair\Lab1_Playfair\obj\Debug\net8.0-windows\ref\Lab1_Playfair.dll
+E:\Năm 3\NT101\Labs\Lab1_Playfair\Lab1_Playfair\obj\Debug\net8.0-windows\Lab1_Playfair.sourcelink.json

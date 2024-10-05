@@ -187,6 +187,7 @@
             tb_plaintext.ScrollBars = ScrollBars.Vertical;
             tb_plaintext.Size = new Size(452, 185);
             tb_plaintext.TabIndex = 7;
+            tb_plaintext.TextChanged += tb_plaintext_TextChanged;
             // 
             // panel2
             // 
@@ -530,6 +531,7 @@
             tb_key.ScrollBars = ScrollBars.Vertical;
             tb_key.Size = new Size(267, 34);
             tb_key.TabIndex = 2;
+            tb_key.TextChanged += tb_key_TextChanged;
             // 
             // Decrypt
             // 
@@ -585,6 +587,7 @@
             tb_cypher_text.ScrollBars = ScrollBars.Vertical;
             tb_cypher_text.Size = new Size(452, 186);
             tb_cypher_text.TabIndex = 5;
+            tb_cypher_text.TextChanged += tb_cypher_text_TextChanged;
             // 
             // panel6
             // 
@@ -908,6 +911,7 @@
             tb_key_decrypt.ScrollBars = ScrollBars.Vertical;
             tb_key_decrypt.Size = new Size(283, 35);
             tb_key_decrypt.TabIndex = 2;
+            tb_key_decrypt.TextChanged += tb_key_decrypt_TextChanged;
             // 
             // label4
             // 

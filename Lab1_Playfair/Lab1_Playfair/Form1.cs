@@ -14,8 +14,6 @@ namespace Lab1_Playfair
         private string[,] Encrypt_Matrix = new String[5, 5];
         private string[,] Decrypt_Matrix = new String[5, 5];
         private string Plaintext = "";
-        private string Plaintext1 = "";
-        private string Cyphertext = "";
         bool isCreateMatrix1 = false;
         bool isCreateMatrix2 = false;
         private string ascii = "ABCDEFGHIKLMNOPQRSTUVWXYZ";
@@ -23,7 +21,8 @@ namespace Lab1_Playfair
 
         private void btn_encrypt_Click_1(object sender, EventArgs e)
         {
-            tb_cyphertext.Clear();
+            string Cyphertext = "";
+            tb_cyphertext.Text = "";
             if (tb_plaintext == null || !isCreateMatrix1)
             {
                 MessageBox.Show("Hãy nhập đầy đủ");
@@ -31,7 +30,7 @@ namespace Lab1_Playfair
             }
             Plaintext = tb_plaintext.Text.Trim();
             Plaintext = Plaintext.ToUpper();
-            if ((Plaintext.Length % 2 == 0))
+            if ((Plaintext.Length % 2 != 0))
             {
                 Plaintext += "X";
             }
@@ -276,14 +275,19 @@ namespace Lab1_Playfair
 
         private void btn_decrypt_Click(object sender, EventArgs e)
         {
-            tb_plaintext1.Clear();
+            string Plaintext1 = "";
+            tb_plaintext1.Text = "";
             if (tb_cypher_text == null || !isCreateMatrix2)
             {
                 MessageBox.Show("Hãy nhập đầy đủ");
                 return;
             }
-            Cyphertext = tb_cypher_text.Text.Trim();
+            string Cyphertext = tb_cypher_text.Text.Trim();
             Cyphertext = Cyphertext.ToUpper();
+            if ((Cyphertext.Length % 2 != 0))
+            {
+                Cyphertext += "X";
+            }
             List<String> temp_list = new List<String>();
             string temp = "";
             foreach (var item in Cyphertext)
@@ -346,18 +350,18 @@ namespace Lab1_Playfair
         private string shiftWithX1(Index index)
         {
             index.x--;
-            if (index.x < 4)
+            if (index.x < 0)
             {
-                index.x = 0;
+                index.x = 4;
             }
             return Decrypt_Matrix[index.x, index.y];
         }
         private string shiftWithY1(Index index)
         {
             index.y--;
-            if (index.y < 4)
+            if (index.y < 0)
             {
-                index.y = 0;
+                index.y = 4;
             }
             return Decrypt_Matrix[index.x, index.y];
         }
@@ -365,6 +369,42 @@ namespace Lab1_Playfair
         {
             int temp = offset;
             return Decrypt_Matrix[index1.x, temp];
+        }
+
+        private void tb_key_TextChanged(object sender, EventArgs e)
+        {
+            if (tb_key.Text.Contains("J") || tb_key.Text.Contains("j"))
+            {
+                MessageBox.Show("Kí tự J được đổi thành kí tự I. Xin hãy nhập lại!!!");
+                return;
+            }
+        }
+
+        private void tb_plaintext_TextChanged(object sender, EventArgs e)
+        {
+            if (tb_plaintext.Text.Contains("J") || tb_plaintext.Text.Contains("j"))
+            {
+                MessageBox.Show("Kí tự J được đổi thành kí tự I. Xin hãy nhập lại!!!");
+                return;
+            }
+        }
+
+        private void tb_key_decrypt_TextChanged(object sender, EventArgs e)
+        {
+            if (tb_key_decrypt.Text.Contains("J") || tb_key_decrypt.Text.Contains("j"))
+            {
+                MessageBox.Show("Kí tự J được đổi thành kí tự I. Xin hãy nhập lại!!!");
+                return;
+            }
+        }
+
+        private void tb_cypher_text_TextChanged(object sender, EventArgs e)
+        {
+            if (tb_cypher_text.Text.Contains("J") || tb_cypher_text.Text.Contains("j"))
+            {
+                MessageBox.Show("Kí tự J được đổi thành kí tự I. Xin hãy nhập lại!!!");
+                return;
+            }
         }
     }
 }
