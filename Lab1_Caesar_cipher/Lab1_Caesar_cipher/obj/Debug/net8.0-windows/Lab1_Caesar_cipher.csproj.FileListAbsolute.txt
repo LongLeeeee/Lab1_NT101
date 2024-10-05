@@ -1,0 +1,16 @@
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\net8.0-windows\Lab1_Caesar_cipher.exe
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\net8.0-windows\Lab1_Caesar_cipher.deps.json
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\net8.0-windows\Lab1_Caesar_cipher.runtimeconfig.json
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\net8.0-windows\Lab1_Caesar_cipher.dll
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\net8.0-windows\Lab1_Caesar_cipher.pdb
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.Form1.resources
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.csproj.GenerateResource.cache
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.AssemblyInfoInputs.cache
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.AssemblyInfo.cs
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.csproj.CoreCompileInputs.cache
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.dll
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\refint\Lab1_Caesar_cipher.dll
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.pdb
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\Lab1_Caesar_cipher.genruntimeconfig.cache
+E:\Năm 3\NT101\Labs\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\net8.0-windows\ref\Lab1_Caesar_cipher.dll
