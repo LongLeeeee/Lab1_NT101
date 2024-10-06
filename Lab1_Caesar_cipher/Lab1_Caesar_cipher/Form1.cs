@@ -155,8 +155,8 @@
                         mem_plaintext += item;
                         continue;
                     }
-                    int asciiValue = convertToInt(item);
-                    int temp = (asciiValue - decrypt_key + 26) % 26;
+                    int index = convertToInt(item);
+                    int temp = (index - decrypt_key + 26) % 26;
                     char c = convertToCharacter(temp);
                     mem_plaintext += c;
                 }
@@ -183,8 +183,8 @@
                     plaint_text.Add(item);
                     continue;
                 }
-                int asciiValue = convertToInt(item);
-                int temp = (asciiValue - decrypt_key + 26) % 26;
+                int index = convertToInt(item);
+                int temp = (index - decrypt_key + 26) % 26;
                 char c = convertToCharacter(temp);
                 plaint_text.Add(c);
             }
@@ -211,8 +211,8 @@
                     cypherText.Add(item);
                     continue;
                 }
-                int asciiValue = convertToInt(item);
-                int temp = (asciiValue + encrypt_key) % 26;
+                int index = convertToInt(item);
+                int temp = (index + encrypt_key) % 26;
                 char c = convertToCharacter(temp);
                 cypherText.Add(c);
             }
