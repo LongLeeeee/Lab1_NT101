@@ -1,0 +1,10 @@
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\bin\Debug\LAB1_CAU2.exe.config
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\bin\Debug\LAB1_CAU2.exe
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\bin\Debug\LAB1_CAU2.pdb
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\obj\Debug\LAB1_CAU2.csproj.AssemblyReference.cache
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\obj\Debug\LAB1_CAU2.Form1.resources
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\obj\Debug\LAB1_CAU2.Properties.Resources.resources
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\obj\Debug\LAB1_CAU2.csproj.GenerateResource.cache
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\obj\Debug\LAB1_CAU2.csproj.CoreCompileInputs.cache
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\obj\Debug\LAB1_CAU2.exe
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB1_CAU2\LAB1_CAU2\obj\Debug\LAB1_CAU2.pdb
