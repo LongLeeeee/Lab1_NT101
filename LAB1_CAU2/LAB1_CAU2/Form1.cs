@@ -16,8 +16,8 @@ namespace LAB1_CAU2
       
         private char[] upperalphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
         private char[] loweralphabet = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
-        private char[,] vigenereTableUppercase = new char[26, 26];
-        private char[,] vigenereTableLowercase = new char[26, 26];
+        private char[,] TableUppercase = new char[26, 26];
+        private char[,] TableLowercase = new char[26, 26];
 
 
         public Form1() 
