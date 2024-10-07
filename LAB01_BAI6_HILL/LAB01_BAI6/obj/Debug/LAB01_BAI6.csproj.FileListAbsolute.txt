@@ -1,0 +1,10 @@
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\bin\Debug\LAB01_BAI6.exe.config
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\bin\Debug\LAB01_BAI6.exe
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\bin\Debug\LAB01_BAI6.pdb
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\obj\Debug\LAB01_BAI6.csproj.AssemblyReference.cache
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\obj\Debug\LAB01_BAI6.Form1.resources
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\obj\Debug\LAB01_BAI6.Properties.Resources.resources
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\obj\Debug\LAB01_BAI6.csproj.GenerateResource.cache
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\obj\Debug\LAB01_BAI6.csproj.CoreCompileInputs.cache
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\obj\Debug\LAB01_BAI6.exe
+E:\Năm 3\An toàn mạng máy tính\TH\LAB1\LAB01_BAI6\LAB01_BAI6\obj\Debug\LAB01_BAI6.pdb
