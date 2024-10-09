@@ -1,0 +1,17 @@
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\bin\Debug\net8.0-windows\Lab1_Vigenère.exe
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\bin\Debug\net8.0-windows\Lab1_Vigenère.deps.json
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\bin\Debug\net8.0-windows\Lab1_Vigenère.runtimeconfig.json
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\bin\Debug\net8.0-windows\Lab1_Vigenère.dll
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\bin\Debug\net8.0-windows\Lab1_Vigenère.pdb
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.Form1.resources
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.csproj.GenerateResource.cache
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.GeneratedMSBuildEditorConfig.editorconfig
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.AssemblyInfoInputs.cache
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.AssemblyInfo.cs
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.csproj.CoreCompileInputs.cache
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.dll
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\refint\Lab1_Vigenère.dll
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.pdb
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.genruntimeconfig.cache
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\ref\Lab1_Vigenère.dll
+E:\Năm 3\NT101\Labs\Lab1_Vigenère\Lab1_Vigenère\obj\Debug\net8.0-windows\Lab1_Vigenère.sourcelink.json
